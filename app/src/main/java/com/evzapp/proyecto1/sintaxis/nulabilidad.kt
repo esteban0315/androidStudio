@@ -1,4 +1,4 @@
-package com.evzapp.proyecto1
+package com.evzapp.proyecto1.sintaxis
 
 fun main() {
     var name:String = "Esteban"

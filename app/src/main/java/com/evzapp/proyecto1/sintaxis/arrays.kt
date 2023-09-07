@@ -1,4 +1,4 @@
-package com.evzapp.proyecto1
+package com.evzapp.proyecto1.sintaxis
 
 /**
  Un arreglo son secuencias de datos, que nos permite almacenar varios datos de forma seguida, en un mismo espacio.

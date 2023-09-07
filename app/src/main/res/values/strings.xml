@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">proyecto1</string>
+    <string name="ic_male">hombre</string>
+    <string name="ic_female">mujer</string>
+    <string name="ic_height">Altura</string>
+    <string name="ic_weight">Peso</string>
+    <string name="ic_age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu resultado!!!</string>
+    <string name="ReCalculate">Recalcular</string>
+
+    <string name="titlleLowWeight">Bajo peso</string>
+    <string name="descriptionLowWeight">Estás por debajo de lo óptimo para tu altura y peso</string>
+    <string name="titlleNormal">Normal</string>
+    <string name="descriptionNormal">El indice de masa corporal para tu altura y peso es el óptimo</string>
+    <string name="titlleOverWeight">Sobrepeso</string>
+    <string name="descriptionOverWeight">Estás por encima de lo óptimo para tu altura y peso</string>
+    <string name="titlleObesity">Obesidad</string>
+    <string name="descriptionObesity">Tu indice de masa corporal sobrepasa los niveles óptimos para personas de tu estatura. Te recomendamos dejar de comer como un cerdo.</string>
+
+    <string name="ResultError">Algo salio mal</string>
+    <string name="error">0</string>
+    <string name="DescriptionError">No se pudo calcular, por favor verifique los valores ingresados</string>
+
+
+
 </resources>
