@@ -28,6 +28,16 @@
         android:textColor="@color/white"
         />
 
+    <Button
+        android:id="@+id/btnToDo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="ToDo APP"
+        android:background="@color/purple_700"
+        android:textColor="@color/white"
+        />
+
 
 
 </LinearLayout>

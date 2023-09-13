@@ -22,6 +22,15 @@
     <string name="error">0</string>
     <string name="DescriptionError">No se pudo calcular, por favor verifique los valores ingresados</string>
 
+    <!-- TODO APP -->
+    <string name="todo_welcome">Bienvenido a ToDo App!!!</string>
+    <string name="todo_categories">Categorías</string>
+    <string name="todo_tasks">Tareas</string>
+    <string name="hintTask">Agrega una tarea</string>
+    <string name="btnBusinessText">Negocios</string>
+    <string name="btnPersonalText">Personal</string>
+    <string name="btnOtherText">Otros</string>
+    <string name="addTask">Agregar tarea</string>
 
 
 </resources>
